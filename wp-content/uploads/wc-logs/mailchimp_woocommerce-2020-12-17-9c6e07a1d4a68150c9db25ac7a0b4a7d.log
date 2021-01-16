@@ -1,0 +1,319 @@
+2020-12-17T00:25:34+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 5fce9ccdb2590
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 1663fc41d5
+            [name] => Agricoolt
+            [domain] => https://agricoolt.com.br
+            [email_address] => admin@agricoolt.com.br
+            [currency_code] => BRL
+            [money_format] => R$
+            [primary_locale] => pt_BR
+            [timezone] => -03:00
+            [phone] => 41984333550
+            [address] => Array
+                (
+                    [address1] => Rua Delegado Naby Paraná, 125 apto 201
+                    [city] => Curitiba
+                    [province] => PR
+                    [postal_code] => 81110120
+                    [country] => BR
+                    [country_code] => BR
+                    [phone] => 41984333550
+                    [company] => Agricoolt
+                )
+
+        )
+
+)
+
+2020-12-17T00:25:36+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 5fce9ccdb2590
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 1663fc41d5
+            [name] => Agricoolt
+            [domain] => https://agricoolt.com.br
+            [email_address] => admin@agricoolt.com.br
+            [currency_code] => BRL
+            [money_format] => R$
+            [primary_locale] => pt_BR
+            [timezone] => -03:00
+            [phone] => 41984333550
+            [address] => Array
+                (
+                    [address1] => Rua Delegado Naby Paraná, 125 apto 201
+                    [city] => Curitiba
+                    [province] => PR
+                    [postal_code] => 81110120
+                    [country] => BR
+                    [country_code] => BR
+                    [phone] => 41984333550
+                    [company] => Agricoolt
+                )
+
+        )
+
+)
+
+2020-12-17T00:25:37+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 5fce9ccdb2590
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 1663fc41d5
+            [name] => Agricoolt
+            [domain] => https://agricoolt.com.br
+            [email_address] => admin@agricoolt.com.br
+            [currency_code] => BRL
+            [money_format] => R$
+            [primary_locale] => pt_BR
+            [timezone] => -03:00
+            [phone] => 41984333550
+            [address] => Array
+                (
+                    [address1] => Rua Delegado Naby Paraná, 125 apto 201
+                    [city] => Curitiba
+                    [province] => PR
+                    [postal_code] => 81110120
+                    [country] => BR
+                    [country_code] => BR
+                    [phone] => 41984333550
+                    [company] => Agricoolt
+                )
+
+        )
+
+)
+
+2020-12-17T00:25:38+00:00 NOTICE mailchimp-woocommerce-sync.started :: Starting Sync :: Thu, Dec 17, 2020 12:25 AM
+2020-12-17T00:25:39+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Coupons queued :: page 1
+2020-12-17T00:25:40+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 5fce9ccdb2590
+            [is_syncing] => 1
+            [platform] => woocommerce
+            [list_id] => 1663fc41d5
+            [name] => Agricoolt
+            [domain] => https://agricoolt.com.br
+            [email_address] => admin@agricoolt.com.br
+            [currency_code] => BRL
+            [money_format] => R$
+            [primary_locale] => pt_BR
+            [timezone] => -03:00
+            [phone] => 41984333550
+            [address] => Array
+                (
+                    [address1] => Rua Delegado Naby Paraná, 125 apto 201
+                    [city] => Curitiba
+                    [province] => PR
+                    [postal_code] => 81110120
+                    [country] => BR
+                    [country_code] => BR
+                    [phone] => 41984333550
+                    [company] => Agricoolt
+                )
+
+        )
+
+)
+
+2020-12-17T00:26:02+00:00 NOTICE coupon_sync.completed :: Done with the coupon queueing.
+2020-12-17T00:26:02+00:00 NOTICE sync.full_sync_manager.queue :: Starting PRODUCTS queueing.
+2020-12-17T00:26:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 1
+2020-12-17T00:26:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 2
+2020-12-17T00:26:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 43
+2020-12-17T00:26:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 78
+2020-12-17T00:26:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 80
+2020-12-17T00:26:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 85
+2020-12-17T00:26:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 257
+2020-12-17T00:26:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 258
+2020-12-17T00:26:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 259
+2020-12-17T00:26:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 260
+2020-12-17T00:26:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 261
+2020-12-17T00:26:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 262
+2020-12-17T00:26:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 263
+2020-12-17T00:26:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 264
+2020-12-17T00:26:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 265
+2020-12-17T00:26:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 266
+2020-12-17T00:26:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 267
+2020-12-17T00:26:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 268
+2020-12-17T00:26:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 269
+2020-12-17T00:26:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 270
+2020-12-17T00:26:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 271
+2020-12-17T00:26:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 272
+2020-12-17T00:26:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 273
+2020-12-17T00:26:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 275
+2020-12-17T00:26:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 276
+2020-12-17T00:26:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 277
+2020-12-17T00:26:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 278
+2020-12-17T00:26:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 279
+2020-12-17T00:26:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 280
+2020-12-17T00:26:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 281
+2020-12-17T00:26:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 282
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 283
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 284
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 285
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 286
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 287
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 288
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 289
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 291
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 292
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 293
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 294
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 295
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 296
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 297
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 298
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 299
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 300
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 301
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 302
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 303
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 304
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 305
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 306
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 307
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 308
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 309
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 310
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 311
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 312
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 313
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 315
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 316
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 317
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 318
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 319
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 320
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 321
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 322
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 323
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 324
+2020-12-17T00:26:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 325
+2020-12-17T00:26:04+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 326
+2020-12-17T00:26:04+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 327
+2020-12-17T00:26:06+00:00 NOTICE product_sync.completed :: Done with the product queuing
+2020-12-17T00:26:06+00:00 NOTICE product_submit.success :: addStoreProduct :: #43
+2020-12-17T00:26:06+00:00 NOTICE product_submit.success :: addStoreProduct :: #78
+2020-12-17T00:26:07+00:00 NOTICE product_submit.success :: addStoreProduct :: #80
+2020-12-17T00:26:07+00:00 NOTICE product_submit.success :: addStoreProduct :: #85
+2020-12-17T00:26:08+00:00 NOTICE product_submit.success :: addStoreProduct :: #257
+2020-12-17T00:26:08+00:00 NOTICE product_submit.success :: addStoreProduct :: #258
+2020-12-17T00:26:08+00:00 NOTICE product_submit.success :: addStoreProduct :: #259
+2020-12-17T00:26:09+00:00 NOTICE product_submit.success :: addStoreProduct :: #260
+2020-12-17T00:26:09+00:00 NOTICE product_submit.success :: addStoreProduct :: #261
+2020-12-17T00:26:09+00:00 NOTICE product_submit.success :: addStoreProduct :: #262
+2020-12-17T00:26:10+00:00 NOTICE product_submit.success :: addStoreProduct :: #263
+2020-12-17T00:26:10+00:00 NOTICE product_submit.success :: addStoreProduct :: #264
+2020-12-17T00:26:11+00:00 NOTICE product_submit.success :: addStoreProduct :: #265
+2020-12-17T00:26:12+00:00 NOTICE product_submit.success :: addStoreProduct :: #266
+2020-12-17T00:26:12+00:00 NOTICE product_submit.success :: addStoreProduct :: #267
+2020-12-17T00:26:12+00:00 NOTICE product_submit.success :: addStoreProduct :: #268
+2020-12-17T00:26:13+00:00 NOTICE product_submit.success :: addStoreProduct :: #269
+2020-12-17T00:26:13+00:00 NOTICE product_submit.success :: addStoreProduct :: #270
+2020-12-17T00:26:14+00:00 NOTICE product_submit.success :: addStoreProduct :: #271
+2020-12-17T00:26:14+00:00 NOTICE product_submit.success :: addStoreProduct :: #272
+2020-12-17T00:26:14+00:00 NOTICE product_submit.success :: addStoreProduct :: #273
+2020-12-17T00:26:15+00:00 NOTICE product_submit.success :: addStoreProduct :: #275
+2020-12-17T00:26:15+00:00 NOTICE product_submit.success :: addStoreProduct :: #276
+2020-12-17T00:26:15+00:00 NOTICE product_submit.success :: addStoreProduct :: #277
+2020-12-17T00:26:16+00:00 NOTICE product_submit.success :: addStoreProduct :: #278
+2020-12-17T00:26:16+00:00 NOTICE product_submit.success :: addStoreProduct :: #279
+2020-12-17T00:26:17+00:00 NOTICE product_submit.success :: addStoreProduct :: #280
+2020-12-17T00:26:17+00:00 NOTICE product_submit.success :: addStoreProduct :: #281
+2020-12-17T00:26:18+00:00 NOTICE product_submit.success :: addStoreProduct :: #282
+2020-12-17T00:26:18+00:00 NOTICE product_submit.success :: addStoreProduct :: #283
+2020-12-17T00:26:18+00:00 NOTICE product_submit.success :: addStoreProduct :: #284
+2020-12-17T00:26:19+00:00 NOTICE product_submit.success :: addStoreProduct :: #285
+2020-12-17T00:26:19+00:00 NOTICE product_submit.success :: addStoreProduct :: #286
+2020-12-17T00:26:20+00:00 NOTICE product_submit.success :: addStoreProduct :: #287
+2020-12-17T00:26:20+00:00 NOTICE product_submit.success :: addStoreProduct :: #288
+2020-12-17T00:26:21+00:00 NOTICE product_submit.success :: addStoreProduct :: #289
+2020-12-17T00:26:21+00:00 NOTICE product_submit.success :: addStoreProduct :: #291
+2020-12-17T00:26:22+00:00 NOTICE product_submit.success :: addStoreProduct :: #292
+2020-12-17T00:26:23+00:00 NOTICE product_submit.success :: addStoreProduct :: #293
+2020-12-17T00:26:24+00:00 NOTICE product_submit.success :: addStoreProduct :: #294
+2020-12-17T00:26:24+00:00 NOTICE product_submit.success :: addStoreProduct :: #295
+2020-12-17T00:26:25+00:00 NOTICE product_submit.success :: addStoreProduct :: #296
+2020-12-17T00:26:25+00:00 NOTICE product_submit.success :: addStoreProduct :: #297
+2020-12-17T00:26:25+00:00 NOTICE product_submit.success :: addStoreProduct :: #298
+2020-12-17T00:26:26+00:00 NOTICE product_submit.success :: addStoreProduct :: #299
+2020-12-17T00:26:26+00:00 NOTICE product_submit.success :: addStoreProduct :: #300
+2020-12-17T00:26:26+00:00 NOTICE product_submit.success :: addStoreProduct :: #301
+2020-12-17T00:26:27+00:00 NOTICE product_submit.success :: addStoreProduct :: #302
+2020-12-17T00:26:27+00:00 NOTICE product_submit.success :: addStoreProduct :: #303
+2020-12-17T00:26:28+00:00 NOTICE product_submit.success :: addStoreProduct :: #304
+2020-12-17T00:26:40+00:00 NOTICE product_submit.success :: addStoreProduct :: #305
+2020-12-17T00:26:40+00:00 NOTICE product_submit.success :: addStoreProduct :: #306
+2020-12-17T00:26:40+00:00 NOTICE product_submit.success :: addStoreProduct :: #307
+2020-12-17T00:26:41+00:00 NOTICE product_submit.success :: addStoreProduct :: #308
+2020-12-17T00:26:41+00:00 NOTICE product_submit.success :: addStoreProduct :: #309
+2020-12-17T00:26:42+00:00 NOTICE product_submit.success :: addStoreProduct :: #310
+2020-12-17T00:26:43+00:00 NOTICE product_submit.success :: addStoreProduct :: #311
+2020-12-17T00:26:43+00:00 NOTICE product_submit.success :: addStoreProduct :: #312
+2020-12-17T00:26:44+00:00 NOTICE product_submit.success :: addStoreProduct :: #313
+2020-12-17T00:26:44+00:00 NOTICE product_submit.success :: addStoreProduct :: #315
+2020-12-17T00:26:44+00:00 NOTICE product_submit.success :: addStoreProduct :: #316
+2020-12-17T00:26:45+00:00 NOTICE product_submit.success :: addStoreProduct :: #317
+2020-12-17T00:26:45+00:00 NOTICE product_submit.success :: addStoreProduct :: #318
+2020-12-17T00:26:46+00:00 NOTICE product_submit.success :: addStoreProduct :: #319
+2020-12-17T00:26:47+00:00 NOTICE product_submit.success :: addStoreProduct :: #320
+2020-12-17T00:26:47+00:00 NOTICE product_submit.success :: addStoreProduct :: #321
+2020-12-17T00:26:47+00:00 NOTICE product_submit.success :: addStoreProduct :: #322
+2020-12-17T00:26:48+00:00 NOTICE product_submit.success :: addStoreProduct :: #323
+2020-12-17T00:26:48+00:00 NOTICE product_submit.success :: addStoreProduct :: #324
+2020-12-17T00:26:48+00:00 NOTICE product_submit.success :: addStoreProduct :: #325
+2020-12-17T00:26:49+00:00 NOTICE product_submit.success :: addStoreProduct :: #326
+2020-12-17T00:26:49+00:00 NOTICE product_submit.success :: addStoreProduct :: #327
+2020-12-17T00:26:49+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Orders queued :: page 1
+2020-12-17T00:26:51+00:00 NOTICE order_sync.completed :: Done with the order queueing.
+2020-12-17T00:27:11+00:00 NOTICE sync.completed :: Finished Sync :: Thu, Dec 17, 2020 12:27 AM (total time: 00:01:33)
+2020-12-17T00:27:57+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 422
+2020-12-17T00:27:58+00:00 NOTICE debug :: Order ID 422 was pending and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2020-12-17T00:30:17+00:00 NOTICE system.debug :: order 422 is in on-hold status, and is being skipped for now.
+2020-12-17T01:48:54+00:00 NOTICE debug :: Order ID 422 was on-hold and is now processing :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2020-12-17T01:48:54+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 422
+2020-12-17T01:50:56+00:00 NOTICE order.member.updated :: Updated daniel.paffrath@gmail.com subscriber status to subscribed and language to 
+2020-12-17T01:50:56+00:00 NOTICE order_submit.success :: addStoreOrder :: #422 :: email: daniel.paffrath@gmail.com
+2020-12-17T02:15:39+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2020-12-17T02:15:40+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 426
+2020-12-17T02:15:41+00:00 NOTICE debug :: Order ID 426 was pending and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2020-12-17T02:16:11+00:00 NOTICE member.sync :: Subscribed Member admin@agricoolt.com.br :: Array
+(
+    [status_if_new] => 1
+    [merge_fields] => Array
+        (
+            [FNAME] => Mariana
+            [LNAME] => Karas Zella
+        )
+
+)
+
+2020-12-17T04:52:45+00:00 NOTICE system.debug :: order 426 is in on-hold status, and is being skipped for now.

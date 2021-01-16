@@ -1,0 +1,9 @@
+2020-12-19T17:33:17+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 431
+2020-12-19T17:33:18+00:00 NOTICE debug :: Order ID 431 was on-hold and is now completed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2020-12-19T18:17:31+00:00 NOTICE order.member.updated :: Updated makzella@hotmail.com subscriber status to subscribed and language to 
+2020-12-19T18:17:31+00:00 NOTICE order_submit.success :: addStoreOrder :: #431 :: email: makzella@hotmail.com :: landing site https://agricoolt.com.br/?wc-ajax=get_refreshed_fragments :: abandoned cart deleted [4dc5c0c0bb521d2c4b83b6b9996b9072]

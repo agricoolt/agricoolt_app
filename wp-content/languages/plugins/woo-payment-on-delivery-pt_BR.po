@@ -1,0 +1,74 @@
+# Translation of Plugins - Woo Payment On Delivery - Development (trunk) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - Woo Payment On Delivery - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-27 00:39:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - Woo Payment On Delivery - Development (trunk)\n"
+
+#: includes/settings-form-fields.php:19 includes/settings-form-fields.php:70
+#: includes/settings-form-fields.php:94 includes/settings-form-fields.php:126
+#: includes/settings-form-fields.php:170
+msgid "Enable/Disable"
+msgstr "Habilitar/Desabilitar"
+
+#: includes/settings-form-fields.php:25
+msgid "Title"
+msgstr "Título"
+
+#: includes/settings-form-fields.php:27
+msgid "This controls the title which the user sees during checkout."
+msgstr "Isto controla o título que o usuário vê durante o checkout."
+
+#: includes/settings-form-fields.php:32
+msgid "Description"
+msgstr "Descrição"
+
+#: includes/settings-form-fields.php:60
+msgid "Money"
+msgstr "Dinheiro"
+
+#: woo-payment-on-delivery.php:375 includes/settings-form-fields.php:61
+msgid "Paycheck"
+msgstr "Cheque"
+
+#: includes/settings-form-fields.php:62 includes/settings-form-fields.php:77
+msgid "Debit Card"
+msgstr "Cartão de Débito"
+
+#: includes/settings-form-fields.php:63 includes/settings-form-fields.php:101
+msgid "Credit Card"
+msgstr "Cartão de Crédito"
+
+#: includes/settings-form-fields.php:156
+msgid "Enable for shipping methods"
+msgstr "Ativar para métodos de entrega"
+
+#: includes/settings-form-fields.php:161
+msgid "If Payment on Delivery is only available for certain methods, set it up here."
+msgstr "Se Pagamento na Entrega está disponível apenas para determinados forma de entrega, configure aqui."
+
+#: includes/settings-form-fields.php:165
+msgid "Select shipping methods"
+msgstr "Selecione a forma de entrega"
+
+#. Plugin Name of the plugin
+msgid "Woo Payment On Delivery"
+msgstr "WooCommerce Pagamento na Entrega"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/woo-payment-on-delivery/"
+msgstr "https://wordpress.org/plugins/woo-payment-on-delivery/"
+
+#. Author of the plugin
+msgid "carlosramosweb"
+msgstr "carlosramosweb"
+
+#: woo-payment-on-delivery.php:59 includes/settings-form-fields.php:28
+msgid "Delivery"
+msgstr "Na Entrega"

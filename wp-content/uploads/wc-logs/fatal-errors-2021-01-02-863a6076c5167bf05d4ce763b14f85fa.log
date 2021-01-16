@@ -1,0 +1,10 @@
+2021-01-02T15:34:39+00:00 CRITICAL Uncaught Error: Call to a member function get() on null in /home1/agrico52/public_html/wp-content/plugins/woo-payment-on-delivery/woo-payment-on-delivery.php:397
+Stack trace:
+#0 /home1/agrico52/public_html/wp-includes/class-wp-hook.php(287): add_woo_payment_on_delivery_gateway_class(Array)
+#1 /home1/agrico52/public_html/wp-includes/plugin.php(212): WP_Hook->apply_filters(Array, Array)
+#2 /home1/agrico52/public_html/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(85): apply_filters('woocommerce_pay...', Array)
+#3 /home1/agrico52/public_html/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(70): WC_Payment_Gateways->init()
+#4 /home1/agrico52/public_html/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(43): WC_Payment_Gateways->__construct()
+#5 /home1/agrico52/public_html/wp-content/plugins/woocommerce/includes/class-woocommerce.php(849): WC_Payment_Gateways::instance()
+#6 /home1/agrico52/public_html/wp-content/plugins/woocommerce/includes/class-wooc, em /home1/agrico52/public_html/wp-content/plugins/woo-payment-on-delivery/woo-payment-on-delivery.php, na linha 397
+

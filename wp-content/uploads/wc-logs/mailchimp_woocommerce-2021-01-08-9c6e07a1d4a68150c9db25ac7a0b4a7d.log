@@ -1,0 +1,11 @@
+2021-01-08T17:39:25+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 83bd61aecf9137bf56ec5762ce550fd1
+2021-01-08T17:39:27+00:00 ERROR abandoned_cart.error :: email: makzella@hormail.com :: attempting product update :: Your request could not be processed.
+2021-01-08T17:39:29+00:00 ERROR abandoned_cart.error :: Error Code 400 :: Your request could not be processed. on 1894 in /home1/agrico52/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2021-01-08T17:39:31+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 504
+2021-01-08T17:39:34+00:00 NOTICE debug :: Order ID 504 was pending and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-01-08T17:41:27+00:00 NOTICE system.debug :: order 504 is in on-hold status, and is being skipped for now.
