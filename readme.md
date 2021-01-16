@@ -13,9 +13,9 @@ O site da Agricoolt possui as principais telas para realização de venda de pro
 Utilizamos WordPress com PHP para a construção e configuração do site (Telas: página principal, Faça sua feira, Quem somos, Fale com a gente!), e Woocommerce integrado para o módulo de vendas com o tema StoreFront.
 
 Para o Woocommerce utilizamos os plugins gratuitos: 
-*_mailchimp-for-woocommerce_ para o envio de e-mails dos pedidos
-*_preenche-endereco-cep_ para a busca de endereço por cep na tela de pagamentos
-*_woo-checkout-field-editor-pro_ para customizar os campos padrões do Woocommerce de identificação do cliente na tela de pagamentos
-*_woo-payment-on-delivery_ para poder customizar os meios de pagamentos: Pagamento na entrega habilitando possibilidade de o cliente informar se vai precisar de troco no caso de dinheiro; Transferência bancária para depósito diretamente na conta da Agricoolt
+* _mailchimp-for-woocommerce_ para o envio de e-mails dos pedidos
+* _preenche-endereco-cep_ para a busca de endereço por cep na tela de pagamentos
+* _woo-checkout-field-editor-pro_ para customizar os campos padrões do Woocommerce de identificação do cliente na tela de pagamentos
+* _woo-payment-on-delivery_ para poder customizar os meios de pagamentos: Pagamento na entrega habilitando possibilidade de o cliente informar se vai precisar de troco no caso de dinheiro; Transferência bancária para depósito diretamente na conta da Agricoolt
 
 Criamos, customizamos e integramos toda a aplicação na Hostgator (www.hostgator.com)
