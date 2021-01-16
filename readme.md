@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta name="viewport" content="width=device-width" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>WordPress &#8250; Leia-me</title>
+    <link rel="stylesheet" href="wp-admin/css/install.css?ver=20100228" type="text/css" />
+</head>
+<body>
+<h1>
+	<img alt="WordPress" src="/home/daniel/Downloads/agricoolt/agricoolt_app/wp-content/uploads/2020/12/Prancheta-63-150x150.png" />
+</h1>
+
+<h2>Saudações</h2>
+<p>Somos um delivery de orgânicos, criando um meio para os produtores realizarem suas vendas sem a necessidade de um local físico, garantindo assim o aumento da sua renda, ao facilitar (e baratear) a entrega para seus clientes, que não precisam sair de casa para terem os alimentos mais fresquinhos!</p>
+<p>Esperamos tornar o consumo de alimentos orgânicos algo mais acessível e atrativo ao cliente final, sempre mostrando de onde vem sua comida e os responsáveis por ela, tornando assim, o ato de se alimentar algo mais humano.</p>
+
+<h2>Construção da aplicação</h2>
+<p>O site da Agricoolt possui as principais telas para realização de venda de produtos através da pesquisa e seleção de produtos, carrinho de compras e de pagamentos.</p>
+<p>Utilizamos WordPress com PHP para a construção e configuração do site (Telas: página principal, Faça sua feira, Quem somos, Fale com a gente!), e Woocommerce integrado para o módulo de vendas com o tema StoreFront.</p>
+<p>Para o Woocommerce utilizamos os plugins gratuitos: 
+	<li><i>mailchimp-for-woocommerce</i> para o envio de e-mails dos pedidos</li>
+	<li><i>preenche-endereco-cep</i> para a busca de endereço por cep na tela de pagamentos</li>
+	<li><i>woo-checkout-field-editor-pro</i> para customizar os campos padrões do Woocommerce de identificação do cliente na tela de pagamentos</li>
+	<li><i>woo-payment-on-delivery</i> para poder customizar os meios de pagamentos: <b>Pagamento na entrega</b> habilitando possibilidade de o cliente informar se vai precisar de troco no caso de dinheiro; <b>Transferência bancária</b> para depósito diretamente na conta da Agricoolt </li>
+</p>
+<p>Criamos, customizamos e integramos toda a aplicação na Hostgator (www.hostgator.com)</p>
+</body>
+</html>
+
+![](wp-content/uploads/2020/12/Prancheta-63-150x150.png)
+
+## Saudações
+
+Somos um delivery de orgânicos, criando um meio para os produtores realizarem suas vendas sem a necessidade de um local físico, garantindo assim o aumento da sua renda, ao facilitar (e baratear) a entrega para seus clientes, que não precisam sair de casa para terem os alimentos mais fresquinhos!
+
+Esperamos tornar o consumo de alimentos orgânicos algo mais acessível e atrativo ao cliente final, sempre mostrando de onde vem sua comida e os responsáveis por ela, tornando assim, o ato de se alimentar algo mais humano.
+
+## Construção da aplicação
+
+O site da Agricoolt possui as principais telas para realização de venda de produtos através da pesquisa e seleção de produtos, carrinho de compras e de pagamentos.
+
+Utilizamos WordPress com PHP para a construção e configuração do site (Telas: página principal, Faça sua feira, Quem somos, Fale com a gente!), e Woocommerce integrado para o módulo de vendas com o tema StoreFront.
+
+Para o Woocommerce utilizamos os plugins gratuitos: 
+*_mailchimp-for-woocommerce_ para o envio de e-mails dos pedidos
+*_preenche-endereco-cep_ para a busca de endereço por cep na tela de pagamentos
+*_woo-checkout-field-editor-pro_ para customizar os campos padrões do Woocommerce de identificação do cliente na tela de pagamentos
+*_woo-payment-on-delivery_ para poder customizar os meios de pagamentos: Pagamento na entrega habilitando possibilidade de o cliente informar se vai precisar de troco no caso de dinheiro; Transferência bancária para depósito diretamente na conta da Agricoolt
+
+Criamos, customizamos e integramos toda a aplicação na Hostgator (www.hostgator.com)
